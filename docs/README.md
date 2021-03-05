@@ -4,7 +4,7 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: eYY-4yp-project-template
-title:
+title: Doppelganger Cartoon
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,14 +13,15 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/15/065, De Silva K.G.P.M., [e15065@eng.pdn.ac.lk](mailto:e15065@eng.pdn.ac.lk)
+- E/15/076, Dileka J.H.S., [e15076@eng.pdn.ac.lk](mailto:e15076@eng.pdn.ac.lk)
+- E/15/220, Maliththa K.H.H., [e15220@eng.pdn.ac.lk](mailto:e15220@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Asitha Bandaranayake, [asithab@pdn.ac.lk](mailto:asithab@pdn.ac.lk)
+- Mr. Sampath Deegalla, [dsdeegalla@pdn.ac.lk](mailto:dsdeegalla@pdn.ac.lk)
+- Mr. Ishan Gammampila
 
 #### Table of content
 
@@ -59,8 +60,8 @@ title:
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e15-4yp-Doppelganger-Cartoon)
+- [Project Page](https://cepdnaclk.github.io/e15-4yp-Doppelganger-Cartoon)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
